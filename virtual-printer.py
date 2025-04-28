@@ -21,8 +21,8 @@ import pandas as pd
 
 # ========== AWS Configuration ==========
 
-AWS_ACCESS_KEY = 'AKIASGTMYCTRGPJXKPX4'
-AWS_SECRET_KEY = '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'
+AWS_ACCESS_KEY = ''
+AWS_SECRET_KEY = ''
 AWS_BUCKET_NAME = 'excelmybucket'
 AWS_REGION = 'ap-south-1'
 
